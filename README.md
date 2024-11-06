@@ -1,4 +1,4 @@
-# DEM Waterway Refinement GIS Tool
+# HydroPy DEM: Automating hydrological correction of Digital Elevation Models for enhanced urban flood modeling
 
 ## Introduction
 
