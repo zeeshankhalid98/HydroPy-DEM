@@ -1,4 +1,4 @@
-# HydroPy DEM: Automating hydrological correction of Digital Elevation Models for enhanced urban flood modeling
+# DEMend: Automating hydrological correction of Digital Elevation Models for enhanced urban flood modeling
 
 ## Introduction
 
