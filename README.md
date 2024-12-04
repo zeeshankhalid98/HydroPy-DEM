@@ -21,11 +21,8 @@ The DEM Waterway Refinement GIS Tool has the following key objectives:
 2. **Enhancing Accuracy in Flood Modeling:**
    - Improve the accuracy of flood modeling by systematically detecting and removing bridges, culverts, and other unnatural obstructions within waterways, optimizing the natural flow of water.
 
-3. **Open-Source Accessibility:**
-   - Design the tool as an ArcGIS Pro Tool while also doubling as an open-source plugin for GIS platforms like QGIS. This ensures widespread accessibility and usability across different GIS environments.
-
-4. **Revolutionizing Flood Modeling Processes:**
-   - Leverage cutting-edge geospatial libraries and advanced techniques to revolutionize flood modeling processes, significantly reducing the time spent on geospatial data preprocessing.
+3. **Revolutionizing Flood Modeling Processes:**
+   - Leverage cutting-edge geospatial libraries and advanced techniques to flood modeling processes, significantly reducing the time spent on geospatial data preprocessing.
 
 These objectives collectively contribute to the overarching goal of providing a powerful and accessible tool that revolutionizes flood modeling and waterway analysis, making it more efficient, accurate, and user-friendly.
 
